@@ -18,7 +18,7 @@ to re-publish them like this.
 Official Application Notes from Skytraq.
 
 Name   | Version | Date       |  Title
--------|---------|------------|------
+-------|--------:|------------|------
 AN0003 | 1.4.24  | 2013/06/18 | Binary Messages of SkyTraq Venus6 GPS Receiver
 AN0026 | 0.3     | 2014/02/19 | 4-hour ROM AGPS Extension for Venus6 & Venus8
 AN0028 | 1.4.42  | 2017/07/24 | Binary Messages of SkyTraq Venus8 GNSS Receiver
