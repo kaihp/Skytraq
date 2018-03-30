@@ -13,7 +13,7 @@ to re-publish them like this.
 
 ## Directories
 
-### AppNotes
+### [AppNotes](AppNotes)
 
 Official Application Notes from Skytraq.
 
@@ -30,7 +30,7 @@ If you have an Application Note that isn't featured on the above list
 (or a newer version) that you can legally pass along, make a pull
 request and I'll update the list.
 
-### Venus638
+### [Venus638](Venus638)
 
 Older SiP (System-in-Package) module with up to 10Hz (later 20Hz) update rate.
 
@@ -38,7 +38,7 @@ It looks like that the Venus638 has become End-Of-Life (EOL). Use the
 Venus838 module instead, except for a few commands, it is directly
 software compatible with the Venus638.
 
-### Venus 838
+### [Venus838](Venus838)
 
 Current SiP (System-in-Package) module with up to 50Hz update rate in
 the Flash-based GPS-only version (see S1216F8), and up to 921.600
@@ -49,12 +49,12 @@ systems (GLONASS, Galileo, Beidou), Dead Reckoning, Raw Measurements,
 Disciplined Clock, and High-Precision RTK. See the
 [DM-V1.5.pdf](Selection Guide).
 
-### Venus 828
+### [Venus828](Venus828)
 
 GNSS baseband processor, supporting GPS and either Beidou/GLONASS
 (depending on RFIC front-end used), Standard Precision, and up to
 115.200 baud. Update rate is TBD.
 
-### 3rdParty
+### [3rdParty](3rdParty)
 
 Documentation made by other companies than SkyTraq.
